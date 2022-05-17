@@ -6,7 +6,7 @@ If you're looking for the program u4pak, the UE4 pak tool, you can find it [here
 
 <p align="center">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=FuriousDev&count_private=true&show_icons=true&theme=radical" />
+  <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FuriousDev&show_icons=true&theme=radical)" />
 </p>
 <br>
 
